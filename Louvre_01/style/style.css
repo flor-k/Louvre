@@ -35,27 +35,11 @@ body {
 
 }
 
-#louvre-img1{
-    width: 100%;
-    height: auto;
-    z-index: -1;
-    float: left;
-    display: none;
-
-}
-
-#louvre-img2{
-    width: 100%;
-    height: auto;
-    z-index: -1;
-    display: none;
-}
-
 #louvre-img3{
     width: 100%;
     height: auto;
     z-index: -1;
-    display:block;
+    display: block;
 }
 
 .title-text {
